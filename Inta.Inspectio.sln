@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inta.Inspectio", "Inta.Inspectio\Inta.Inspectio.csproj", "{5665FB66-6500-4C4C-89B8-8B7FBDBEA96C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inta.Authentication.Shared", "Inta.Authentication.Shared\Inta.Authentication.Shared.csproj", "{0AC80838-8544-4708-8A7D-56A772030DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5665FB66-6500-4C4C-89B8-8B7FBDBEA96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5665FB66-6500-4C4C-89B8-8B7FBDBEA96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5665FB66-6500-4C4C-89B8-8B7FBDBEA96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5665FB66-6500-4C4C-89B8-8B7FBDBEA96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC80838-8544-4708-8A7D-56A772030DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC80838-8544-4708-8A7D-56A772030DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC80838-8544-4708-8A7D-56A772030DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC80838-8544-4708-8A7D-56A772030DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EE862B-ECBD-4797-8786-31D729DB642C}
+	EndGlobalSection
+EndGlobal
